@@ -135,5 +135,7 @@ current_question = 0
 # Show the first question
 show_question()
 
+print("quiz app open")
+
 # Start the main event loop
 root.mainloop()
