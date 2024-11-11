@@ -1,3 +1,8 @@
-# quizApp
+Give quizes through this app 
+Created in python , tkinter and fetching api
 
-a simple quiz app which i make in my early days 
+Libraries -->
+
+           pip install tkinter
+           pip install requests
+           pip install ttkbootstrap
